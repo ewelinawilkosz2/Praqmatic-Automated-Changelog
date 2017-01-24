@@ -8,7 +8,7 @@
 :task_systems:
   -
     :name: jira
-    :query_string: "https://api.github.com/repos/Praqma/Praqmatic-Automated-Changelog/issues/#{task_id}"
+    :query_string: "https://api.github.com/repos/ewelinawilkosz2/Praqmatic-Automated-Changelog/issues/#{task_id}"
     :usr:
     :pw: 
     :regex:

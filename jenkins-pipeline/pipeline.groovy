@@ -4,7 +4,7 @@ REMOTE_NAME = 'origin'
 JOB_LABELS = 'dockerhost1'
 AUTOMATION_USER = 'ReleasePraqma'
 NUM_OF_BUILDS_TO_KEEP = 100
-GITHUB_PRAQMA_CREDENTIALS = '100247a2-70f4-4a4e-a9f6-266d139da9db'
+GITHUB_PRAQMA_CREDENTIALS = 'jenkins'
 
 PRETESTED_INTEGRATION_JOB_NAME = '1_pretested-integration_pac'
 GENERATE_CHANGE_LOG_JOB_NAME = '2_generate_changelog_pac'

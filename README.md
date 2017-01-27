@@ -5,7 +5,7 @@ Issue tracking:
 [![Issues](https://img.shields.io/github/issues/Praqma/Praqmatic-Automated-Changelog.svg)](https://github.com/Praqma/Praqmatic-Automated-Changelog/issues)
 
 
-# Praqmatic Automated Changelog (PAC)
+# Praqmatic Automated Changelog (PAC) v2
 
 Tool for creating automated, but pragmatic, changelogs.
 

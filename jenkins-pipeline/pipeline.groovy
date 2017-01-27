@@ -1,4 +1,4 @@
-REPOSITORY_URL = 'https://github.com/ewelinawilkosz2/Praqmatic-Automated-Changelog.git'
+REPOSITORY_URL = 'git@github.com:ewelinawilkosz2/Praqmatic-Automated-Changelog.git'
 MAIN_BRANCH = 'master'
 REMOTE_NAME = 'origin'
 JOB_LABELS = 'dockerhost1'
